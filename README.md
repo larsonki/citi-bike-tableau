@@ -1,7 +1,7 @@
 <img
   src="https://d21xlh2maitm24.cloudfront.net/nyc/Citi-Bike-provided-by-Lyft-Positive-170x57px.svg?mtime=20201023151104"
   alt="Citi Bike Logo"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 # Citi Bike Analysis using Tableau
 
